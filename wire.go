@@ -1,7 +1,7 @@
 //go:build wireinject
 // +build wireinject
 
-package your_project
+package app
 
 import (
 	"gh.dev-tim/di-talk/config"
